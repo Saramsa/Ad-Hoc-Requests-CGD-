@@ -1,5 +1,6 @@
 # AD-HOC-INSIGHTS (CONSUMER GOODS DOMAIN)
 Challenge Description : [Task and datasets](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+Presentation & interaction :[ Presentation ]https://www.linkedin.com/feed/update/urn:li:activity:7174528399351152640/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7174528399351152640%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
 ## Problem Statement
 Atliq Hardwares, a prominent computer hardware producer in India with international presence, faces a challenge in making timely and informed decisions due to insufficient insights derived from data analytics. The management recognizes the need to expand their data analytics team to address this issue, specifically by hiring junior data analysts proficient in both technical and soft skills. To effectively assess candidates' suitability for the role, Tony Sharma, the data analytics director, has proposed conducting a SQL challenge to evaluate their technical proficiency and soft skills, aiming to select candidates who can contribute to the company's data-driven decision-making process.
